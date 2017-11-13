@@ -1,4 +1,4 @@
-package com.example.jared.braintrain;
+package com.example.merousha.braintrain;
 
 import android.os.CountDownTimer;
 import android.support.constraint.ConstraintLayout;
